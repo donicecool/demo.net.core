@@ -9,6 +9,8 @@ namespace demo.net.core
     {
         public static void Main(string[] args)
         {
+            var test = "Text";
+            Console.Write(test);
         }
     }
 }
